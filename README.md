@@ -31,7 +31,3 @@ The application follows the MVC (Model-View-Controller) architecture:
 - **Controller**: Acts as an intermediary between Model and View, handling user input and updating the Model and View accordingly.
 
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MohamedElziaty1/todolist-mvc-oop-php.git
-   cd todolist-mvc-oop-php
