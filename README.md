@@ -34,7 +34,7 @@ Update Task: Click on the task you want to update, modify the details, and save.
 Delete Task: Click the delete button next to the task you want to remove.
 Mark as Completed: Click the checkbox next to the task to mark it as completed.
 
-##File Structure
+## File Structure
 
 todolist-mvc-oop-php/
 │
@@ -62,10 +62,10 @@ todolist-mvc-oop-php/
 ├── .gitignore              # Git ignore file
 ├── README.md               # This file
 └── composer.json           # Composer dependencies
-##Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the project's coding standards and includes appropriate tests.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details
