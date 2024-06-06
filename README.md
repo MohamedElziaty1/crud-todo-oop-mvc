@@ -30,9 +30,6 @@ The application follows the MVC (Model-View-Controller) architecture:
 - **View**: Manages the presentation layer and user interface.
 - **Controller**: Acts as an intermediary between Model and View, handling user input and updating the Model and View accordingly.
 
-## Installation
-
-To install and run the TodoList application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
